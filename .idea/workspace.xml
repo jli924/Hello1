@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e85719da-460c-4ce6-a240-44098af2f138" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/.github/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/.github/workflows/projectbuild.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/459DE0AB-86E2-453F-B1E5-6DACCB9475B3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/FEATURES.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/PA05.drawio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/PA05UMLfinal.drawio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/Screen Shot 2023-06-21 at 12.42.08 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/config/checkstyle/cs3500-checkstyle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/main/java/cs3500/pa05/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/main/java/cs3500/pa05/controller/JavaJournalController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/main/java/cs3500/pa05/controller/JavaJournalControllerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/main/java/cs3500/pa05/controller/SaveProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/main/java/cs3500/pa05/model/Day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/main/java/cs3500/pa05/model/JEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/main/java/cs3500/pa05/model/JavaJournal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/main/java/cs3500/pa05/model/JournalEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/main/java/cs3500/pa05/model/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/main/java/cs3500/pa05/model/Weekday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/main/java/cs3500/pa05/model/json/DayJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/main/java/cs3500/pa05/model/json/EventJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/main/java/cs3500/pa05/model/json/JournalJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/main/java/cs3500/pa05/model/json/JsonUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/main/java/cs3500/pa05/model/json/TaskJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/main/java/cs3500/pa05/view/JavaJournalView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/main/java/cs3500/pa05/view/JavaJournalViewImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/main/java/cs3500/pa05/view/PopupView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/main/resources/appIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/main/resources/journal.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/main/resources/scene.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/main/testfiles/andreTest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/main/testfiles/initDaysTest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/main/testfiles/keely1.bujo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/main/testfiles/mock.bujo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/main/testfiles/testFile.bujo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/main/testfiles/testFile.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/main/testfiles/testFile1.bujo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/main/testfiles/testFile2.bujo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/test/java/cs3500/pa05/model/DayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/test/java/cs3500/pa05/model/JEventTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/test/java/cs3500/pa05/model/JavaJournalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/test/java/cs3500/pa05/model/JournalEntryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/test/java/cs3500/pa05/model/TaskTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/test/java/cs3500/pa05/model/json/DayJsonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/test/java/cs3500/pa05/model/json/EventJsonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/test/java/cs3500/pa05/model/json/JournalJsonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/test/java/cs3500/pa05/model/json/JsonUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJournal/src/test/java/cs3500/pa05/model/json/TaskJsonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/cs3500/pa05/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/cs3500/pa05/controller/JavaJournalController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/cs3500/pa05/controller/JavaJournalControllerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/cs3500/pa05/controller/SaveProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/cs3500/pa05/model/Day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/cs3500/pa05/model/JEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/cs3500/pa05/model/JavaJournal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/cs3500/pa05/model/JournalEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/cs3500/pa05/model/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/cs3500/pa05/model/Weekday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/cs3500/pa05/model/json/DayJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/cs3500/pa05/model/json/EventJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/cs3500/pa05/model/json/JournalJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/cs3500/pa05/model/json/JsonUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/cs3500/pa05/model/json/TaskJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/cs3500/pa05/view/JavaJournalView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/cs3500/pa05/view/JavaJournalViewImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/cs3500/pa05/view/PopupView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/resources/appIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/resources/journal.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/resources/scene.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/testfiles/andreTest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/testfiles/initDaysTest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/testfiles/keely1.bujo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/testfiles/mock.bujo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/testfiles/testFile.bujo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/testfiles/testFile.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/testfiles/testFile1.bujo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/testfiles/testFile2.bujo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/test/java/cs3500/pa05/model/DayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/test/java/cs3500/pa05/model/JEventTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/test/java/cs3500/pa05/model/JavaJournalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/test/java/cs3500/pa05/model/JournalEntryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/test/java/cs3500/pa05/model/TaskTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/test/java/cs3500/pa05/model/json/DayJsonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/test/java/cs3500/pa05/model/json/EventJsonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/test/java/cs3500/pa05/model/json/JournalJsonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/test/java/cs3500/pa05/model/json/JsonUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/test/java/cs3500/pa05/model/json/TaskJsonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/JavaJournal/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/JavaJournal/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaJournal/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaJournal/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaJournal/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cssdialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaJournal/.idea/cssdialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaJournal/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaJournal/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaJournal/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../../cs3500/pa05-mvc2">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="JavaJournal" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="JavaJournal" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="JavaJournal" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="JavaJournal" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2bMv7mIvz6PWa39KZg6QtGtDLT2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Applications/Projects/JavaJournal&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="JavaJournal [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.JavaJournal [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e85719da-460c-4ce6-a240-44098af2f138" name="Changes" comment="" />
+      <created>1706037596667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706037596667</updated>
+      <workItem from="1706037597706" duration="512000" />
+      <workItem from="1706038126107" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
